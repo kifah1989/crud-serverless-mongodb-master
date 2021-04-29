@@ -1,0 +1,7 @@
+{
+  "name": "Amanda",
+  "dish": "garlicky green beans",
+  "vegetarian": true,
+  "vegan": false,
+  "allergens": "nuts (almonds)"
+}
